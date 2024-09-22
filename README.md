@@ -1,2 +1,2 @@
-# sdfsc
-
+# SDF-SC
+# need ompl、roboticstoolbox
