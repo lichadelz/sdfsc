@@ -1,2 +1,3 @@
 # SDF-SC
-# need ompl、roboticstoolbox
+paper：Efficient Collision Detection Framework for Enhancing Collision-Free Robot Motion
+Complete code execution requires installation of ompl and rtb libraries
