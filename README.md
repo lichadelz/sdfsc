@@ -4,6 +4,8 @@ paper：[Efficient Collision Detection Framework for Enhancing Collision-Free Ro
 Complete code execution requires installation of [ompl](https://github.com/ompl/ompl) and [roboticstoolbox](https://github.com/petercorke/robotics-toolbox-python) libraries
 
 ## Start using SDF-SC:
+You will need Python >= 3.9，torch >= 1.13
+
 `Time_eval.ipynb` is used to test the SDF-SC framework
 
 `Opt_SDFSC.ipynb` tests trajectory optimization based on the SDF-SC framework
